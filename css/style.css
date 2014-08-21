@@ -1,16 +1,5 @@
 @charset "UTF-8";
-#menu {
-  width:630px;
-  padding:20px;
-  margin:20px;
-  list-style-type: none;
-}
-#menu li {
-  width:20%;
-  float:left;
-  padding:0;
-  margin:0;
-  text-align:center;
+
 }
 .bnr{
 float:left; margin-left:0px; margin-top:0px;
